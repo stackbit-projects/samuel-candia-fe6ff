@@ -62,6 +62,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: false
+    background_image: /images/background-2426328_1280.jpg
 seo:
   title: Contact
   description: This is the contact page
