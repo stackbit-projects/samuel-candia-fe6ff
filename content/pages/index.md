@@ -18,7 +18,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/background-2426328_1280.jpg
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
