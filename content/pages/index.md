@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-        style: link
+        style: secondary
     image: /images/Samuel_Candia.jpeg
     image_alt: A smiling woman
     media_position: right
