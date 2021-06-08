@@ -60,7 +60,7 @@ sections:
     background_color: primary
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 10
+    background_image_opacity: 1
     has_border: false
     background_image: /images/background-2426328_1280.jpg
 seo:
