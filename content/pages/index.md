@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: secondary
-    image: /images/Samuel_Candia.jpeg
+    image: /images/Captura de pantalla de 2021-06-08 19-57-56.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
